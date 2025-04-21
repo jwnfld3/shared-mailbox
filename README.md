@@ -44,6 +44,7 @@ This lab guides users through the process of creating a shared mailbox in Micros
    - **Explanation:** The shared mailbox is now created with the chosen display name and email address. It allows multiple users to access and manage the mailbox, sending and receiving emails on behalf of the team or department.
 
  ![image](https://github.com/user-attachments/assets/6ed68a34-44ee-409c-8973-f80c2940f7a2)
+![image](https://github.com/user-attachments/assets/6472b771-aa10-43f2-ae16-fc624fa9fd2b)
 
 ### Step 2: Assign Permissions to the Shared Mailbox
 1. **Assign Full Access Permissions:**
