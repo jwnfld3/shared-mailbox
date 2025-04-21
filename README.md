@@ -49,17 +49,20 @@ This lab guides users through the process of creating a shared mailbox in Micros
 ### Step 2: Assign Permissions to the Shared Mailbox
 1. **Assign Full Access Permissions:**
    - After the mailbox is created, it will appear in the list of shared mailboxes. Select the mailbox you just created.
+
+![image](https://github.com/user-attachments/assets/99ae7203-7478-4a0a-b43b-7022d757d2af)
+
    - Under the **Mailbox delegation** section, click **Edit** next to **Full Access**. Full access allows a user to read, delete, and manage the emails in the shared mailbox.
    - In the dialog box that appears, click the **+** button to add users. A list of users in your organization will be displayed.
    - Select the users who need full access to the mailbox and click **Add**, then **Save**.
    - **Explanation:** Full Access permissions allow users to view, delete, and modify messages in the shared mailbox. These users can operate as though the mailbox belongs to them, but they cannot send emails from it unless they have Send As permissions.
 
-2. **Assign Send As Permissions:**
+3. **Assign Send As Permissions:**
    - In the **Mailbox delegation** section, click **Edit** next to **Send As**. This permission allows users to send emails as if they are the shared mailbox.
    - Click the **+** button to add users who will have this permission. Select the appropriate users and click **Add**, then **Save**.
    - **Explanation:** Send As permissions give users the ability to send emails as the shared mailbox itself. This is useful when users need to send emails from a central email address (e.g., support@domain.com) rather than their personal email addresses.
 
-3. **Assign Send on Behalf Permissions (Optional):**
+4. **Assign Send on Behalf Permissions (Optional):**
    - If users need to send emails on behalf of the shared mailbox (e.g., “John Doe on behalf of support@domain.com”), go to the **Send on Behalf** section and click **Edit**.
    - Add users who will send on behalf of the mailbox by clicking the **+** button, selecting users, and clicking **Add** > **Save**.
    - **Explanation:** Send on Behalf permissions allow a user to send an email on behalf of the shared mailbox, with the email indicating that the message was sent by the user on behalf of the shared mailbox.
