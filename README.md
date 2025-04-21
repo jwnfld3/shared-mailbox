@@ -51,8 +51,12 @@ This lab guides users through the process of creating a shared mailbox in Micros
    - After the mailbox is created, it will appear in the list of shared mailboxes. Select the mailbox you just created.
 
 ![image](https://github.com/user-attachments/assets/99ae7203-7478-4a0a-b43b-7022d757d2af)
+![image](https://github.com/user-attachments/assets/1f707fc4-604f-4108-8522-abf4fc37715b)
 
    - Under the **Mailbox delegation** section, click **Edit** next to **Full Access**. Full access allows a user to read, delete, and manage the emails in the shared mailbox.
+   
+   ![image](https://github.com/user-attachments/assets/4bf1bb03-e9a2-49d8-8509-2ec8c03a614e)
+
    - In the dialog box that appears, click the **+** button to add users. A list of users in your organization will be displayed.
    - Select the users who need full access to the mailbox and click **Add**, then **Save**.
    - **Explanation:** Full Access permissions allow users to view, delete, and modify messages in the shared mailbox. These users can operate as though the mailbox belongs to them, but they cannot send emails from it unless they have Send As permissions.
