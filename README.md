@@ -94,7 +94,7 @@ This lab guides users through the process of creating a shared mailbox in Micros
 
 ### Step 3: Verify Permissions
 1. **Check User Access to the Shared Mailbox:**
-   - Once permissions are assigned, have the users log into **Outlook** or **Outlook on the Web**.
+   - Once permissions are assigned, have the users log into **Outlook**.
    - Users with **Full Access** should see the shared mailbox listed under their own mailbox folders. They should be able to read, delete, and move emails within the shared mailbox.
    - Users with **Send As** permissions should be able to send emails from the shared mailbox as though they are the shared mailbox. They should select the shared mailbox from the "From" field when composing a new email.
    - Users with **Send on Behalf** permissions should be able to send emails on behalf of the shared mailbox. The email will display the user’s name followed by “on behalf of” the shared mailbox (e.g., "John Doe on behalf of support@domain.com").
