@@ -40,8 +40,10 @@ This lab guides users through the process of creating a shared mailbox in Micros
    - A form will appear where you need to enter the following details:
      - **Display Name:** Enter a name for the shared mailbox, such as "Support Team" or "Sales Department." This is the name that will be visible to users when they interact with the mailbox.
      - **Email Address:** Enter an email address for the shared mailbox (e.g., support@domain.com). This will be the email address that users will send messages from and receive messages at.
-   - Once you have filled in the required information, click **Save** to create the mailbox.
+     - Once you have filled in the required information, click **Save** to create the mailbox.
    - **Explanation:** The shared mailbox is now created with the chosen display name and email address. It allows multiple users to access and manage the mailbox, sending and receiving emails on behalf of the team or department.
+
+ ![image](https://github.com/user-attachments/assets/6ed68a34-44ee-409c-8973-f80c2940f7a2)
 
 ### Step 2: Assign Permissions to the Shared Mailbox
 1. **Assign Full Access Permissions:**
