@@ -1,4 +1,4 @@
-# Creating a Shared Mailbox and Assigning Permissions in Microsoft 365
+# Creating a Shared Mailbox and Assigning Permissions in Exchange Admin Center
 
 ## Lab Overview:
 This lab guides users through the process of creating a shared mailbox in Microsoft 365 and assigning the appropriate permissions (Full Access, Send As, and Send on Behalf) to enable users to manage the mailbox collaboratively.
