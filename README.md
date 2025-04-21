@@ -81,8 +81,16 @@ This lab guides users through the process of creating a shared mailbox in Micros
 
 5. **Assign Send on Behalf Permissions (Optional):**
    - If users need to send emails on behalf of the shared mailbox (e.g., “John Doe on behalf of support@domain.com”), go to the **Send on Behalf** section and click **Edit**.
+
+![image](https://github.com/user-attachments/assets/f0fb5b34-20d1-4009-94c1-bac0e9cb9ae2)
+
    - Add users who will send on behalf of the mailbox by clicking the **+** button, selecting users, and clicking **Add** > **Save**.
    - **Explanation:** Send on Behalf permissions allow a user to send an email on behalf of the shared mailbox, with the email indicating that the message was sent by the user on behalf of the shared mailbox.
+
+![image](https://github.com/user-attachments/assets/528b2cd0-6cba-4c20-a294-9d7dc7202a7d)
+![image](https://github.com/user-attachments/assets/94e8d442-bd9b-4148-af18-982932129965)
+![image](https://github.com/user-attachments/assets/f01b35f9-aa4a-4736-94ba-83c57b64f901)
+![image](https://github.com/user-attachments/assets/c9f405cf-0f18-445c-ae41-ff5fee3a4bb3)
 
 ### Step 3: Verify Permissions
 1. **Check User Access to the Shared Mailbox:**
