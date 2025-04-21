@@ -61,6 +61,11 @@ This lab guides users through the process of creating a shared mailbox in Micros
    - Select the users who need full access to the mailbox and click **Add**, then **Save**.
    - **Explanation:** Full Access permissions allow users to view, delete, and modify messages in the shared mailbox. These users can operate as though the mailbox belongs to them, but they cannot send emails from it unless they have Send As permissions.
 
+![image](https://github.com/user-attachments/assets/9dacefcd-5143-41cd-878b-6e46a6e29b56)
+![image](https://github.com/user-attachments/assets/5114d2b3-d297-4db3-9f3a-9eeefdd1388f)
+![image](https://github.com/user-attachments/assets/5a36d486-20d8-4e86-8c21-ba9f7a7ab404)
+![image](https://github.com/user-attachments/assets/db7c076a-6ef7-4295-a9d8-46bb2e458aba)
+
 3. **Assign Send As Permissions:**
    - In the **Mailbox delegation** section, click **Edit** next to **Send As**. This permission allows users to send emails as if they are the shared mailbox.
    - Click the **+** button to add users who will have this permission. Select the appropriate users and click **Add**, then **Save**.
