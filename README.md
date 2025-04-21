@@ -34,6 +34,9 @@ This lab guides users through the process of creating a shared mailbox in Micros
 4. **Create the Shared Mailbox:**
    - In the **Exchange Admin Center**, go to **Recipients** > **Shared** from the left-hand menu. This section displays all shared mailboxes in your organization.
    - Click the **+ Add a shared mailbox** button located at the top of the page.
+   
+![image](https://github.com/user-attachments/assets/1e9b000f-3fb5-4490-9615-6f9bce7b23fd)
+
    - A form will appear where you need to enter the following details:
      - **Display Name:** Enter a name for the shared mailbox, such as "Support Team" or "Sales Department." This is the name that will be visible to users when they interact with the mailbox.
      - **Email Address:** Enter an email address for the shared mailbox (e.g., support@domain.com). This will be the email address that users will send messages from and receive messages at.
