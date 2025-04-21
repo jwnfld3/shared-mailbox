@@ -99,3 +99,7 @@ This lab guides users through the process of creating a shared mailbox in Micros
    - Users with **Send As** permissions should be able to send emails from the shared mailbox as though they are the shared mailbox. They should select the shared mailbox from the "From" field when composing a new email.
    - Users with **Send on Behalf** permissions should be able to send emails on behalf of the shared mailbox. The email will display the user’s name followed by “on behalf of” the shared mailbox (e.g., "John Doe on behalf of support@domain.com").
    - **Explanation:** Verifying the permissions ensures that the users can effectively access and send emails from the shared mailbox according to the permissions granted.
+
+### Conclusion
+
+This lab demonstrated how to create a shared mailbox in Microsoft 365 and assign the appropriate permissions: Full Access, Send As, and Send on Behalf to designated users. By completing these steps, IT administrators ensure seamless collaboration across teams by allowing multiple users to access, manage, and send emails from a centralized mailbox. Proper configuration of shared mailboxes supports efficient communication workflows, enhances team productivity, and aligns with Microsoft 365 best practices for shared resource management.
